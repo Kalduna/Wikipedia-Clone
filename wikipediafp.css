@@ -1,0 +1,87 @@
+#wordmark{
+    width: 176px;
+    height: 32px;   
+    user-select:none;
+}
+.centerLogo{
+    text-align: center;
+    font-family: sans-serif;
+}
+.center{
+    position: absolute;
+}
+a {
+    color: #36c;
+    text-decoration: none;
+}
+.languages{
+    text-align: center;
+    position: relative;
+    font-size: 1.4rem;
+    vertical-align: middle;
+    left: 400px;
+    top:100px;
+}
+body{
+    margin: 4;
+    background-repeat: no-repeat;
+    background-position-x:center;
+    background-position-y: 200px;
+    background-size: 200px;
+    display: block;
+    font-size: 1.4rem;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif;;
+}
+.center2{
+    position: absolute;
+}
+.languages2{
+    position: relative;
+    top: 100px;
+    left: 900px;
+}
+.en{
+    left: 490px;
+    top: 30px;
+}
+.ja{
+    left: 445px;
+    top: 50px;
+}
+.es{
+    left: 420px;
+    top: 70px
+}
+.ch{
+    left: 440px;
+    top:90px;
+}
+.pr{
+    left: 480px;
+    top: 110px;
+}
+.ru{
+    top: 30px;
+    left: 780px;
+}
+.de{
+    top: 50px;
+    left: 815px;
+}
+.fr{
+    top:70px;
+    left: 835px;
+}
+.it{
+    top: 90px;
+    left: 820px;
+}
+.pl{
+    top: 110px;
+    left: 790px;
+}
+#freeWiki{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: Linux Libertine,Georgia,Times,serif;
+}
